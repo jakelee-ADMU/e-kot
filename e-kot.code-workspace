@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "path": "backend" },
+    { "path": "frontend" },
+    { "path": "scripts" },
+    { "path": "docs" }
+  ],
+  "settings": {
+    "files.eol": "\r\n",
+    "editor.formatOnSave": true
+  }
+}
